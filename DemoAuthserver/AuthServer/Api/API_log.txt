@@ -13,3 +13,12 @@
 2018-02-09 14:51:07.364 -05:00 [INF] Successfully validated the token.
 2018-02-09 14:51:07.442 -05:00 [INF] AuthenticationScheme: BearerIdentityServerAuthenticationJwt was successfully authenticated.
 2018-02-09 14:51:07.459 -05:00 [INF] AuthenticationScheme: Bearer was successfully authenticated.
+2018-02-12 15:18:50.069 -05:00 [INF] Successfully validated the token.
+2018-02-12 15:18:50.133 -05:00 [INF] AuthenticationScheme: BearerIdentityServerAuthenticationJwt was successfully authenticated.
+2018-02-12 15:18:50.145 -05:00 [INF] AuthenticationScheme: Bearer was successfully authenticated.
+2018-02-13 09:44:49.546 -05:00 [INF] Successfully validated the token.
+2018-02-13 09:44:49.626 -05:00 [INF] AuthenticationScheme: BearerIdentityServerAuthenticationJwt was successfully authenticated.
+2018-02-13 09:44:49.641 -05:00 [INF] AuthenticationScheme: Bearer was successfully authenticated.
+2018-02-13 09:47:50.761 -05:00 [INF] Successfully validated the token.
+2018-02-13 09:47:50.826 -05:00 [INF] AuthenticationScheme: BearerIdentityServerAuthenticationJwt was successfully authenticated.
+2018-02-13 09:47:50.838 -05:00 [INF] AuthenticationScheme: Bearer was successfully authenticated.

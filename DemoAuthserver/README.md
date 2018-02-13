@@ -1,2 +1,0 @@
-# DemoAuthserver
-DemoAuthserver 

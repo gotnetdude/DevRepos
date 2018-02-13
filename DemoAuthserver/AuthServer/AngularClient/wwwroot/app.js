@@ -30,7 +30,8 @@ var mgr = new Oidc.UserManager(config);
 
 mgr.getUser().then(function (user) {
     if (user) {
-        log("User logged in", user.profile);
+        log("User logged in", user.profile); 
+        api();
     }
     else {
         log("User not logged in");
